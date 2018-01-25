@@ -16,6 +16,9 @@ go to the one of the project directories and type:
 sls deploy
 ```
 
+building JVM projects
+---------------------
+
 In the case of the Java project, we need to build them first as follows:
 
 ```
@@ -26,4 +29,10 @@ In the case of Kotlin project, we should build it with:
 
 ```
 ./gradlew shadowJar
+```
+
+If we're missing Gradle Wrapper, but we have Gradle installed in the system, we can go to the project directory and just type:
+
+```
+gradle wrapper
 ```
