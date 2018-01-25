@@ -16,8 +16,14 @@ go to the one of the project directories and type:
 sls deploy
 ```
 
-In the case of the JVM projects (Java and Kotlin here), we need to build them first as follows:
+In the case of the Java project, we need to build them first as follows:
 
 ```
 ./gradlew build
+```
+
+In the case of Kotlin project, we should build it with:
+
+```
+./gradlew shadowJar
 ```
