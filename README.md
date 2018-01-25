@@ -19,7 +19,7 @@ sls deploy
 building JVM projects
 ---------------------
 
-In the case of the Java project, we need to build them first as follows:
+In the case of the Java project, we need to build it first as follows:
 
 ```
 ./gradlew build
