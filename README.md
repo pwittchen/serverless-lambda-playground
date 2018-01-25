@@ -10,7 +10,7 @@ Please note, you need to create your [AWS](https://aws.amazon.com) account first
 deployment
 ----------
 
-### java gradle project
+### aws-lambda-java-gradle
 
 ```
 cd aws-lambda-java-gradle/
