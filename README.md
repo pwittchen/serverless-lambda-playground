@@ -10,9 +10,8 @@ Please note, you need to create your [AWS](https://aws.amazon.com) account first
 deployment
 ----------
 
-### aws-lambda-java-gradle
+go to the one of the project directories and type:
 
 ```
-cd aws-lambda-java-gradle/
 sls deploy
 ```
