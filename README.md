@@ -36,3 +36,9 @@ If we're missing Gradle Wrapper, but we have Gradle installed in the system, we 
 ```
 gradle wrapper
 ```
+
+References
+----------
+- [video tutorial](https://www.youtube.com/watch?v=71cd5XerKss)
+- [AWS Console](https://console.aws.amazon.com)
+- [Serverless](https://serverless.com/)
