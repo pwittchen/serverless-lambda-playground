@@ -2,6 +2,10 @@ serverless-lambda-playground
 ============================
 Playing around with Lambdas and Cloud Functions
 
+Read related blog posts about AWS Lambda and Serverless at:
+
+http://wittchen.io/2018/03/18/deployment-of-the-java-code-to-aws-lambda/
+
 requirements
 ------------
 
